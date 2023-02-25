@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shooting simulation</string>
+    <string name="shooting_area">Область анимации</string>
+    <string name="floor">Поверхность</string>
+    <string name="missile">Ядро</string>
+    <string name="wall">Стена</string>
+    <string name="speed_field_hint">Введите скорость полета ядра V0</string>
+    <string name="angle_field_hint">Введите угол полета ядра Alpha</string>
+</resources>
