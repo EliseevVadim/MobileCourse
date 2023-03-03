@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarPriceCalculatorX</string>
+    <string name="app_title">Приложение для вычисления цены автомобиля</string>
+    <string name="calculate_button_text">Узнать цену</string>
+    <string name="spinners_content_text">Выберите подходящее значение</string>
+    <string name="image_button_description">Важнейшая кнопка</string>
+    <string name="colors_content_path">car_colors.json</string>
+    <string name="models_content_path">car_models.json</string>
+    <string name="equipment_options_content_path">car_equipment_options.json</string>
+    <string name="engine_types_content_path">car_engine_types.json</string>
+    <string name="user_input_content_path">user_input.json</string>
+</resources>
