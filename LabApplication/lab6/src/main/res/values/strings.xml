@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Домашняя бухгалтерия</string>
+    <string name="recalculation_button_text">Сделать пересчет</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="main_title">Главная</string>
+    <string name="accounts_title">Счета</string>
+    <string name="incomes_title">Доходы</string>
+    <string name="expenses_title">Расходы</string>
+    <string name="loans_title">Задолженности</string>
+    <string name="debits_title">Дебет</string>
+    <string name="savings_title">Накопления</string>
+    <string name="add_button_text">Добавить</string>
+    <string name="update_button_text">Изменить</string>
+    <string name="delete_button_text">Удалить</string>
+    <string name="disgard_button_text">Отмена</string>
+    <string name="common_input_error_message">Произошла ошибка. Проверьте ввод.</string>
+</resources>

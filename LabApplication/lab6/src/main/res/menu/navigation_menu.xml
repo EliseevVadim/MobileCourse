@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_main"
+        android:onClick="openMainFragment"
+        android:title="@string/main_title" />
+
+    <item
+        android:id="@+id/nav_accounts"
+        android:onClick="openAccountsFragment"
+        android:title="@string/accounts_title" />
+
+    <item
+        android:id="@+id/nav_incomes"
+        android:onClick="openIncomesFragment"
+        android:title="@string/incomes_title" />
+
+    <item
+        android:id="@+id/nav_expenses"
+        android:onClick="openExpensesFragment"
+        android:title="@string/expenses_title" />
+
+    <item
+        android:id="@+id/nav_loans"
+        android:onClick="openLoansFragment"
+        android:title="@string/loans_title" />
+
+    <item
+        android:id="@+id/nav_debits"
+        android:onClick="openDebitsFragment"
+        android:title="@string/debits_title" />
+
+    <item
+        android:id="@+id/nav_savings"
+        android:onClick="openSavingsFragment"
+        android:title="@string/savings_title" />
+
+</menu>
